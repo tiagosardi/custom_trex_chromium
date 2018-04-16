@@ -11,3 +11,9 @@ Para jogar, basta clonar o repositório e acessar o arquivo index.html.
 Personalizei o jogo para homenagear Leandro Nogueira pelo seu aniversário.
 
 PS: A lua que aparece foi substituida pela logo da empresa. Salve, salve, equipe!
+
+O jogo está hospedado e funcionando em:
+
+https://parabensleandro.000webhostapp.com/
+
+Divirtam-se!
