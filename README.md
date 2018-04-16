@@ -16,4 +16,7 @@ O jogo está hospedado e funcionando em:
 
 https://parabensleandro.000webhostapp.com/
 
+PRESSIONE ESPAÇO PARA INICIAR e PULAR
+SETA PARA BAIXO para se abaixar.
+
 Divirtam-se!
